@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/list_item_background"
+    android:layoutDirection="ltr"
+    android:orientation="vertical"
+    tools:context="com.example.android.telavivguide.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- title -->
+        <TextView
+            android:id="@+id/mainScreenTitle"
+            style="@style/MainScreenTitleStyle"
+            android:layout_alignParentTop="true"
+            android:text="@string/main_screen_title"
+            android:textDirection="ltr" />
+
+        <TextView
+            android:id="@+id/mainScreenText"
+            style="@style/MainScreenTextStyle"
+            android:layout_below="@id/mainScreenTitle"
+            android:text="@string/main_screen_text"
+            android:textDirection="ltr" />
+
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/map"
+            android:layout_width="@dimen/map_minWidth_landscape"
+            android:layout_height="@dimen/map_minHeight_landscape"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/mainScreenText"
+            android:layout_margin="@dimen/list_padding" />
+
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/map"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/list_padding"
+            tools:context="com.example.android.telavivguide.MainActivity">
+
+            <TableRow>
+                <!-- restaurants category -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/category_restaurants">
+
+                    <TextView
+                        android:id="@+id/restaurants"
+                        style="@style/CategoryStyle"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackground"
+                        android:gravity="center_horizontal"
+                        android:text="@string/category_restaurants" />
+                </FrameLayout>
+
+                <!-- market category -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/category_markets">
+
+                    <TextView
+                        android:id="@+id/markets"
+                        style="@style/CategoryStyle"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackground"
+                        android:gravity="center_horizontal"
+                        android:text="@string/category_markets" />
+                </FrameLayout>
+            </TableRow>
+
+            <TableRow>
+                <!-- museums category -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/category_museums">
+
+                    <TextView
+                        android:id="@+id/museums"
+                        style="@style/CategoryStyle"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackground"
+                        android:gravity="center_horizontal"
+                        android:text="@string/category_Museums" />
+                </FrameLayout>
+
+
+                <!-- attractions category -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/category_attractions">
+
+                    <TextView
+                        android:id="@+id/attractions"
+                        style="@style/CategoryStyle"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackground"
+                        android:gravity="center_horizontal"
+                        android:text="@string/category_other_attractions" />
+                </FrameLayout>
+            </TableRow>
+        </TableLayout>
+
+    </RelativeLayout>
+</ScrollView>

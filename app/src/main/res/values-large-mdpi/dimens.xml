@@ -1,0 +1,11 @@
+
+<resources>
+    <dimen name="list_item_height">120dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="list_padding">8dp</dimen>
+    <dimen name="list_layout_margin">10dp</dimen>
+    <dimen name="map_minHeight_portrait">480dp</dimen>
+    <dimen name="map_minHeight_landscape">550dp</dimen>
+    <dimen name="map_minWidth_landscape">700dp</dimen>
+</resources>
+

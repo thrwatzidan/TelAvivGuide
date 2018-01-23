@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#2790DA</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#BCAAA4</color>
+
+    <!-- Backgroud color for a list item-->
+    <color name="list_item_background">#FFF3E0</color>
+
+    <!-- the color of the title in a list item-->
+    <color name="list_item_title">#4E342E</color>
+
+    <!-- text color for links-->
+    <color name="link_text_color">#2962FF</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_restaurants">#197FCA</color>
+
+    <!-- Background color for the markets members category -->
+    <color name="category_markets">#397997</color>
+
+    <!-- Background color for the museums category -->
+    <color name="category_museums">#8975A0</color>
+
+    <!-- Background color for the parks category -->
+
+
+    <!-- Background color for the other attractions category -->
+    <color name="category_attractions">#FF79DA</color>
+
+</resources>

@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Tel Aviv Guide</string>
+    <string name="category_main">Tel Aviv</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_markets">Markets</string>
+    <string name="category_Museums">Museums</string>
+    <string name="category_other_attractions">Other Attractions</string>
+    <string name="main_screen_title">About the city</string>
+    <string name="main_screen_text">Tel Aviv is one of the most vibrant cities in the world.
+        Titled the ‘Mediterranean Capital of Cool’ by the New York Times, this is a 24 hour city with a unique pulse,
+        combining sandy Mediterranean beaches with a world-class nightlife, a buzzing cultural scene, incredible food,
+        UNESCO recognized architecture, and an international outlook. </string>
+
+    <!--Restaurants fragment strings-->
+    <string name="restaurant1">Manta Ray</string>
+    <string name="restaurant1_description">Located along side the sands of the beach, and just steps away from the clashing waves,
+    its kitchen is unique for its special and creative Middle Eastern cuisine. </string>
+    <string name="restaurant1_address">703 Yehezkel Kaufman St. Tel Aviv</string>
+    <string name="restaurant1_phone">+972 (0)3 5174773</string>
+    <string name="restaurant1_link">http://mantaray.co.il/index.php/manta-ray-en</string>
+    <string name="restaurant2">Nanuchka</string>
+    <string name="restaurant2_description">The first 100% vegan Georgian restaurant in Tel Aviv and in the World!
+        Besides the profusion of flavors and colors, here you will find antique flooring, tables with character,
+        authentic tableware and warm lighting fixtures that make you feel right at home.
+        On the walls you will find pieces of art, made by some of the best Israeli artists.
+        All of these together create an intriguing and vibrant energy, which will leave you with a taste for more.</string>
+    <string name="restaurant2_address">Lilienblum 30 Tel Aviv</string>
+    <string name="restaurant2_phone">+972 (0)3 5162254</string>
+    <string name="restaurant2_link">http://nanuchka.co.il/en/</string>
+    <string name="restaurant3">Doctor Shakshuka</string>
+    <string name="restaurant3_description">Dr. Shakshuka is a legendary and popular Tel Aviv budget-friendly family-run
+        restaurant that serves simple yet delicious Tripolitan food. The restaurant hides in the small alleys
+        near the famous Jaffa Flea Market.</string>
+    <string name="restaurant3_address">Beit Eshel 3 Yaffa, Tel Aviv</string>
+    <string name="restaurant3_phone">+972 (0)3 6913088</string>
+    <string name="restaurant3_link">http://www.doctorshakshuka.co.il/#</string>
+    <string name="restaurant4">Taizu</string>
+    <string name="restaurant4_description">With a kitchen that is based on local street food from five
+        Southeast Asian countries: India, China, Thailand, Vietnam and Cambodia,
+        Taizu manages to pull off sophisticated Pan-Asian food with Mediterranean touches.</string>
+    <string name="restaurant4_address">Menachem Begin 23 Tel Aviv</string>
+    <string name="restaurant4_phone">+972 (0)3 5225005</string>
+    <string name="restaurant4_link">https://www.taizu.co.il/en/</string>
+    <string name="restaurant5">Kitchen Market</string>
+    <string name="restaurant5_description">Kitchen Market is a contemporary gourmet restaurant on the upper floor
+        of Shuk HaNamal market in the Tel Aviv port. One side offers an unending view of the sparkling sea,
+        and another looks out over the vibrant color of the bustling marketplace. This,
+        combine with fresh quality ingredients, and the bright, beautifully design of the restaurant,
+        guarantee a first-class culinary experience.</string>
+    <string name="restaurant5_address">Hangar 12, Tel-Aviv Port, Farmers Market 2nd floor, Tel Aviv</string>
+    <string name="restaurant5_phone">+972 (0)3 5446669</string>
+    <string name="restaurant5_link">http://www.kitchen-market.co.il/</string>
+    <string name="restaurant6">Dallal - the restaurant</string>
+    <string name="restaurant6_description">Dallal is located in the historic neighborhood of Neve Tzedek.
+        Dallal offers a classic European kitchen with Mediterranean influences, using top notch seasonal ingredients.</string>
+    <string name="restaurant6_address">Shabazi 10 Tel Aviv</string>
+    <string name="restaurant6_phone">+972 (0)3 5109292</string>
+    <string name="restaurant6_link">http://dallal.co.il/?lang=en</string>
+
+    <!--Markets fragment strings-->
+    <string name="market1">Carmel Market</string>
+    <string name="market1_description">The Market is among the most central and popular of Tel Aviv’s market places
+        - it’s also an integral part of the city’s early urban development. Thanks to a recent renovation,
+        the Carmel Shuk of today is home to a range culinary treats that,together with covered walkways and shaded coffee stalls,
+        welcomes leading chefs from Israel and abroad to its abundant sights, sounds and flavors.</string>
+    <string name="market1_address">Span from the central HaCarmel Street through to the Kerem HaTeimanim neighborhood</string>
+    <string name="market1_link">http://en.shuktlv.co.il/category/carmel-market</string>
+    <string name="market2">Levinsky Market</string>
+    <string name="market2_description">The market started has a range of spice shops and eateries opened up across the
+        neighborhood in the 1930s, by the residents that came mostly from Saloniki, Greece.
+        Today, among the stores to visit are dried fruits and nuts, bakeries, delicatessens and restaurants.</string>
+    <string name="market2_address">Spreads across Levinsky Street, between HaAliyah Street and Herzl Street</string>
+    <string name="market2_link">http://en.shuktlv.co.il/category/levinsky-market</string>
+    <string name="market3">Shuk HaNamal</string>
+    <string name="market3_description">Inspired by covered food markets in Europe, the Namal Shuk takes its food cues
+        from the slow food movement. The Namal Shuk is teaming with ripe, fresh, local produce and products ranging
+        from sea foods to jams and cured meats to coffees. It is open from Monday through Saturday (closed Sundays) and
+        on Fridays a colorful farmer’s market takes over the parking lot next door. </string>
+    <string name="market3_address">Hanger 12 at Tel Aviv Port boardwalk</string>
+    <string name="market3_link">http://en.shuktlv.co.il/category/shuk-hanamal</string>
+    <string name="market4">Jaffa Flea Market - Shuk HaPishpushim</string>
+    <string name="market4_description">Like many other major cities across Europe and North America, Jaffa’s Shuk HaPishpushim,
+        or Flea Market, is an outdoor secondhand and antique shopping extravaganza.
+        In recent years it became a trendy spot for fashionistas, artisans and lovers of all things old or handmade.
+        Today’s sprawling streets and central market area are an eclectic mix of indoor restaurants, stop by eateries,
+        outdoor junk vendors, and shops with refurbished furniture, household items from earlier periods,
+        and second hand clothes.</string>
+    <string name="market4_address">Runs across the streets of Olei Zion, Yehuda Margoza, Beit Eshel and the alleyways connecting them</string>
+    <string name="market4_link">http://en.shuktlv.co.il/category/jaffa-flea-market</string>
+
+    <!--Museums fragment strings-->
+    <string name="museum1">Tel Aviv Museum of Art</string>
+    <string name="museum1_description">One of Israel leading artistic and cultural institutions. It comprises various departments:
+        The Department of Israeli Art, the Department of Modern and Contemporary Art, the Department of Prints and Drawings,
+        the Department of Photography, the Department of Architecture and Design, and the Old Masters Department.
+        In addition to its extensive program of permanent and changing exhibitions, the museum offers a vibrant selection of
+        programs and activities for adults, youth and children: concerts, classes, lectures, guided tours, workshops, and more.
+        The museum is currently situated in three main buildings: The Helena Rubinstein Pavilion for Contemporary Art that was
+        in 1959 and today showcases mainly temporary exhibitions, the Main Building on Shaul Hamelech Boulevard which opened
+        in 1971, and adjacent to it the new Herta and Paul Amir Building that was inaugurated in the Fall of 2011 and was
+        designed by American architect Preston Scott Cohen. The museum's extended exhibition space also includes the Lola
+        Beer Ebner Sculpture Garden, Nata's Garden, and the Joseph and Rebecca Meyerhoff Art Education Center.</string>
+    <string name="museum1_phone">+972 (0)3 6077020</string>
+    <string name="museum1_address">Shaul Hamelech Blvd. 27, The Golda Meir Cultural and Art Center, Tel Aviv</string>
+    <string name="museum1_link">http://www.tamuseum.org.il/tel-aviv-museum-of-art</string>
+    <string name="museum2">Eretz Israel Museum</string>
+    <string name="museum2_description">This is a multidisciplinary museum that focuses on the history and culture of Israel
+        through comprehensive permanent and temporary exhibits in the diverse fields of archeology, ethnography,
+        post and philately, folklore, Judaica, traditional crafts, popular art, cultural history and local identity.
+        The museum spread over an area of some 20 acres and comprises about 15 buildings and various installations.
+        In the center of the museum, adjacent to the buildings and exhibit spaces, stands Tell Qasile -
+        an ancient archaeological mound dating from the 12th century BCE. Additional ancient relics, such as mosaics,
+        oil presses, an ancient wine press, flour mills, etc. can be found in the gardens surrounding the site.
+        In addition to the ten permanent exhibitions and ancient sites, the museum displays about 20 temporary exhibits
+        every year and also conducts symposiums, lectures and meetings with curators and scholars in various fields.
+        The museum site also houses an innovative planetarium, halls of various sizes, lecture rooms and workshops,
+        a cafeteria, and a gift shop.</string>
+    <string name="museum2_phone">+972 (0)3 6415244</string>
+    <string name="museum2_address">Haim Levanon 2 Ramat Aviv, Tel Aviv </string>
+    <string name="museum2_link">http://www.eretzmuseum.org.il/e/90/</string>
+    <string name="museum3">Nahum Gutman Museum of Art</string>
+    <string name="museum3_description">The Museum opened in 1988 by the Nahum Gutman Society and the Tel Aviv Foundation.
+        The entire collection was donated by the Gutman family. The museum was established in a historical house,
+        built in 1887, known as "The Writers' House". Through the years the house was badly damaged and was finally abandoned
+        in the 1960s. It was declared a landmark and subsequently purchased by the Jewish National Fund. Reconstruction began
+        in 1992 and the northern wing was historically reconstructed, while the southern wing was modernly renovated by the
+        architect Ronny Zeibert. In 2009 the new adjacent wing of the museum was officially opened, where the "Nukata",
+        the Turkish Guard had once stood, during the founding of Neve-Zedek.
+        The museum exhibitions create a meeting space between Gutman and young Israeli contemporary artists, creating a cultural
+        dialogue between old and new works of art. The fact that Gutman drew both Tel Aviv and Jaffa, portraying Jews and Arabs
+        with the same amount of love and interest, provides us with a wonderful tool for the teaching of tolerance as well as
+        a cross-cultural meeting place. </string>
+    <string name="museum3_phone">+972 (0)3 5161970</string>
+    <string name="museum3_address">Shimon Rokah 21 Tel Aviv</string>
+    <string name="museum3_link">http://www.gutmanmuseum.co.il/en/the-museum/about-us</string>
+    <string name="museum4">Rubin Museum</string>
+    <string name="museum4_description">The Museum is an artist-house-museum in the historical heart of Tel Aviv. Formerly the
+        home of the painter Reuven Rubin that lived here with his family and worked in his third floor studio from 1946 until
+        his death in 1974. Constructed in 1930, the house was opened to the public in 1983. A selection from the permanent
+        collection of the artist paintings is regularly on display, replaced periodically by guest exhibitions focusing on
+        Israeli art. There are 4 floors in the building: The street level floor houses the main gallery, as well as the entry
+        hall with the museum's shop. An additional gallery is located on the second floor, with a library and reading room.
+        The children's workshop is located in the basement, opening to the backyard. Rubin's studio, preserved as it was in
+        his lifetime, is located on the third floor which also houses a biographical photographic display unfolding Rubin's
+        life-story and reflecting the local artistic and cultural scene.</string>
+    <string name="museum4_phone">+972 (0)3 5255961</string>
+    <string name="museum4_address">Bialik 14 Tel Aviv</string>
+    <string name="museum4_link">http://www.rubinmuseum.org.il/en/company/about/main/</string>
+
+    <!--OtherAttractions fragment strings-->
+    <string name="others1">Jaffa Port</string>
+    <string name="others1_description">One of the oldest ports in the world, in operation since the Canaanite period,
+        the Jaffa Port bestows on Jaffa a historical status as a major city in the Eastern Mediterranean and a Western
+        gateway to Israel. For thousands of years, the port has served fishermen, ships, merchants, pilgrims, conquerors
+        and immigrants. Over time, the Jaffa Port has suffered periods of neglect and abandonment. Thanks to a joint effort
+        by port fishermen, local residents and admirers, and Tel-Aviv/Jaffa Municipality investment and support, the port
+        doubles as a fishing port but also as an attraction that offers an array of cultural, recreational, commercial and
+        tourist activities to the general public. </string>
+    <string name="others1_phone">+972 (0)3 6832255</string>
+    <string name="others1_address">Nemal Yafo St. Jaffa-Tel-Aviv</string>
+    <string name="others1_link">https://www.namalyafo.co.il/en/about/</string>
+    <string name="others2">Beaches</string>
+    <string name="others2_description">Tel Aviv-Yafo boasts a long promenade, running alongside the seashore that makes up
+        its western edge. People walk, jog, ride bikes, or sit on benches and fill their lungs with fresh air, all while
+        being surrounded by a glorious 8.7 mile stretch of open views, blue horizons, and white sails bobbing on the waves.
+        Each of the 13 beautiful beaches enjoys unique characteristics and offers a variety of services, including lifeguard
+        stations, kiosks, restaurants, children’s playgrounds, outdoors gyms, and more.</string>
+    <string name="others2_address">The Seashore - the West side of Tel Aviv</string>
+    <string name="others2_link">https://www.go-telaviv.com/tel-aviv-beach.html</string>
+    <string name="others3">White City of Tel-Aviv</string>
+    <string name="others3_description">In 2003 UNESCO proclaimed the historic zone of Tel Aviv, also know as The White City,
+        as a World Cultural Heritage site. By this proclamation, UNESCO recognized the special architectural qualities of
+        the buildings, streets, squares and avenues of this zone. The White City area was built in an innovative style,
+        tailored to the needs of its residents, to their life styles, and to the climatic conditions of the region. This
+        area is the world's largest grouping of buildings designed in the International Style known as Bauhaus.</string>
+    <string name="others3_address">Between Ben-Gurion st. in the north, Chen Blvd in the East and Neve Tzedek
+        neighborhood in Tel Aviv</string>
+    <string name="others3_link">https://www.tel-aviv.gov.il/en/Visit/WhiteCity/Pages/default.aspx</string>
+    <string name="others4">Tel Aviv Port</string>
+    <string name="others4_description"> In 2001, the management of Marine Trust Ltd., in collaboration with the Municipality
+        of Tel Aviv, decided to restore the first Hebrew port to the first Hebrew city. The port, which since the 1960s had
+        been a backyard that was cut off from the city, became, after the environmentally friendly reconstruction, and
+        renovation of the original buildings, into a unique meeting point between the city, residents and the sea, and one
+        of the most beautiful and lively leisure and entertainment venues in Tel Aviv–Jaffa.</string>
+    <string name="others4_address">North Entrance - at the junction between Hataarucha Street and the end of Dizengoff St.,
+        Tel Aviv</string>
+    <string name="others4_link">http://www.yarid-hamizrach.co.il/</string>
+    <string name="others5">Hayarkon Park</string>
+    <string name="others5_description"> The Park is set on the outskirts of Tel Aviv. the beautifully tranquil Park
+        is the green lung of Tel Aviv and straddles the Yarkon River in the north of the city. Aside from the sheer
+        beauty and tranquility of the neatly groomed lawns abutting the calm river, the Park also has some interesting
+        features. In the eastern part lie the Rock Garden and the Tropical Garden. There is a five-acre Tropical Garden
+        which is home to a rain forest-like micro-climate with a tiny lake home to swans, fish, and beautiful orchids and vines.
+        Also within the Park is one of Israel’s largest water parks (complete with water slides, a wave pool and a toddlers’
+        pool) and an outdoor stadium for concerts and performances.</string>
+    <string name="others5_address">Near the Yarkon river in Tel Aviv</string>
+    <string name="others5_link">http://park.co.il/en/</string>
+    <string name="link_text_shown">Click here for more information</string>
+</resources>
